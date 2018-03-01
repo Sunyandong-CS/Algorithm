@@ -16,8 +16,8 @@ An project which used to share some common algorithm.
     * 冒泡排序
     * 快速排序
 * LCS
-
-
+* 剑指offer刷题
+    * 反转链表
 ## 推荐阅读
 
 ### 刷题必备
