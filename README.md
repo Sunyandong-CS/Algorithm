@@ -18,6 +18,9 @@ An project which used to share some common algorithm.
 * LCS
 * 剑指offer刷题
     * 反转链表
+* leetcode刷题
+    * 动态规划相关
+    
 ## 推荐阅读
 
 ### 刷题必备
