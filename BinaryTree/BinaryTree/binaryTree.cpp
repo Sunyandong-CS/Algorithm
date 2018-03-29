@@ -200,6 +200,25 @@ void BiTree::levelOrder() {
     cout<<endl;
 }
 
+// 二叉树镜像的递归做法
+
+void BiTree::mirrorRecursively(BiNode *root) {
+    if(root == NULL) return;
+    if (root->lchild == NULL && root->rchild == NULL) {
+        return;
+    }
+    BiNode *tem = root->lchild;
+    root->lchild = root->rchild;
+    root->rchild = tem;
+    
+    if (root->lchild != NULL) {
+        mirrorRecursively(root->lchild);
+    }
+    if (root->rchild != NULL) {
+        mirrorRecursively(root->rchild);
+    }
+}
+
 
 
 

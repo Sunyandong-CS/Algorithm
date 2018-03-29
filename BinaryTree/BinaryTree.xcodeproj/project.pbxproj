@@ -60,8 +60,8 @@
 			isa = PBXGroup;
 			children = (
 				CF1B34432046CD4100CFF15A /* main.cpp */,
-				CF1B34412046CD4100CFF15A /* Products */,
 				CF1B344D2046EA9200CFF15A /* binaryTree.cpp */,
+				CF1B34412046CD4100CFF15A /* Products */,
 				CF1B344E2046EA9200CFF15A /* binaryTree.hpp */,
 			);
 			path = BinaryTree;

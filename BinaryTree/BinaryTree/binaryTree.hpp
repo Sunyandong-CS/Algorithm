@@ -57,6 +57,8 @@ public:
     void postOrderNonrecursion();
     // 层序遍历二叉树
     void levelOrder();
+    // 二叉树镜像，递归做法
+    void mirrorRecursively(BiNode *root);
     // 求树的高度
     int getHeight();
     // 求两个节点的最大公共祖先

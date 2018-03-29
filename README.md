@@ -12,14 +12,20 @@ An project which used to share some common algorithm.
 ### 目前学习：
 * 树
     * 二叉树（构造、遍历等）
+    * 二叉查找树
 * 排序
     * 冒泡排序
     * 快速排序
+    * 归并排序
 * LCS
 * 剑指offer刷题
     * 反转链表
+    * 前k小的数
+    * 链表相关
 * leetcode刷题
     * 动态规划相关
+
+* 一些公司的题目
     
 ## 推荐阅读
 
