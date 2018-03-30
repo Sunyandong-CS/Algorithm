@@ -13,6 +13,7 @@ An project which used to share some common algorithm.
 * 树
     * 二叉树（构造、遍历等）
     * 二叉查找树
+    * Z 字形打印二叉树
 * 排序
     * 冒泡排序
     * 快速排序
