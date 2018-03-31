@@ -19,10 +19,12 @@ An project which used to share some common algorithm.
     * 快速排序
     * 归并排序
 * LCS
+* 素数筛选法
 * 剑指offer刷题
     * 反转链表
     * 前k小的数
     * 链表相关
+    * 镜像的二叉树
 * leetcode刷题
     * 动态规划相关
 
