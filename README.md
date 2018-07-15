@@ -25,6 +25,9 @@ An project which used to share some common algorithm.
     * 前k小的数
     * 链表相关
     * 镜像的二叉树
+    * 回溯法
+      * 机器人的运动范围
+      * 矩阵中的路径
 * leetcode刷题
     * 动态规划相关
 
