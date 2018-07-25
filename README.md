@@ -18,6 +18,7 @@ An project which used to share some common algorithm.
     * 冒泡排序
     * 快速排序
     * 归并排序
+* 背包问题..持续更新中
 * LCS
 * 素数筛选法
 * 剑指offer刷题
